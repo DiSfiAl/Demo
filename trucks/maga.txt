@@ -1,0 +1,4 @@
+Truck Name: maga
+Max Weight: 100.0
+Current Weight: 0.0
+Status: false

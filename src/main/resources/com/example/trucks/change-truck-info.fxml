@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.trucks.ChangeTruckInfoController">
+    <Label text="Change Truck Info"/>
+    <GridPane hgap="10" vgap="10">
+        <Label text="Truck Name:"/>
+        <TextField fx:id="truckNameField" GridPane.columnIndex="1"/>
+
+        <Label text="Max Weight:" GridPane.rowIndex="1"/>
+        <TextField fx:id="maxWeightField" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+    </GridPane>
+    <Button text="Save Changes" onAction="#handleSaveChanges"/>
+</VBox>

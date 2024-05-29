@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.trucks.AddTruckController" spacing="10" alignment="CENTER">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <TextField fx:id="nameField" promptText="Truck Name" />
+    <TextField fx:id="maxWeightField" promptText="Max Weight (kg)" />
+    <Button text="Add Truck" onAction="#addTruck" />
+</VBox>

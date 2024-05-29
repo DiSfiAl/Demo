@@ -1,0 +1,36 @@
+Coffee name: 
+Manufacturer: 
+Sort: 
+Type: 
+Price: 0.0 UAH
+Package type: 
+Weight: 100.0 grams
+Coffee Weight: 0.0 grams
+Package Weight: 0.0 grams
+Term: 0 month
+Grade: 0.0
+Quantity: 5
+Coffee name: 
+Manufacturer: 
+Sort: 
+Type: 
+Price: 0.0 UAH
+Package type: 
+Weight: 100.0 grams
+Coffee Weight: 0.0 grams
+Package Weight: 0.0 grams
+Term: 0 month
+Grade: 0.0
+Quantity: 10
+Coffee name: 
+Manufacturer: 
+Sort: 
+Type: 
+Price: 0.0 UAH
+Package type: 
+Weight: 100.0 grams
+Coffee Weight: 0.0 grams
+Package Weight: 0.0 grams
+Term: 0 month
+Grade: 0.0
+Quantity: 5

@@ -1,0 +1,23 @@
+Coffee Inventory:
+Coffee name: LaVeT
+Manufacturer: Sweden
+Sort: Arabica
+Type: Grains
+Price: 84.25 UAH
+Package type: Jar
+Weight: 310.0 grams
+Coffee Weight: 250.0 grams
+Package Weight: 60.0 grams
+Term: 6 month
+Grade: 5.5
+Coffee name: Jacobs
+Manufacturer: Germany
+Sort: Sublimated
+Type: Soluble
+Price: 248.0 UAH
+Package type: Pack
+Weight: 260.0 grams
+Coffee Weight: 250.0 grams
+Package Weight: 10.0 grams
+Term: 36 month
+Grade: 7.75

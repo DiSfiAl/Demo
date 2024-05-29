@@ -1,0 +1,4 @@
+Truck Inventory:
+Lol.txt
+maga.txt
+packedCoffee

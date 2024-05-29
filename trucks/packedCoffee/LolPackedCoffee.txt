@@ -1,0 +1,36 @@
+Coffee name: xd
+Manufacturer: xd
+Sort: xd
+Type: xd
+Price: 1192.0 UAH
+Package type: Jar
+Weight: 1240.0 grams
+Coffee Weight: 1240.0 grams
+Package Weight: 240.0 grams
+Term: 36 month
+Grade: 5.25
+Quantity: 1
+Coffee name: xd
+Manufacturer: xd
+Sort: xd
+Type: xd
+Price: 1192.0 UAH
+Package type: Jar
+Weight: 1240.0 grams
+Coffee Weight: 1240.0 grams
+Package Weight: 240.0 grams
+Term: 36 month
+Grade: 5.25
+Quantity: 2
+Coffee name: xd
+Manufacturer: xd
+Sort: xd
+Type: xd
+Price: 1192.0 UAH
+Package type: Jar
+Weight: 1240.0 grams
+Coffee Weight: 1240.0 grams
+Package Weight: 240.0 grams
+Term: 36 month
+Grade: 5.25
+Quantity: 5

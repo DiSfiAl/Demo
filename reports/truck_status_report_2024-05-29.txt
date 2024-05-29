@@ -1,0 +1,3 @@
+Truck Status:
+Trucks Sent: 0
+Trucks Pending: 0

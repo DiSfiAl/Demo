@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.coffee.CoffeeMenuController" spacing="10" alignment="CENTER">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <Button text="Add Coffee" onAction="#addCoffee" prefWidth="150" prefHeight="50"/>
+    <Button text="View Coffee List" onAction="#viewCoffeeList" prefWidth="150" prefHeight="50"/>
+    <Button text="Update Coffee Information" onAction="#updateCoffee" prefWidth="150" prefHeight="50"/>
+    <Button text="Delete Coffee" onAction="#deleteCoffee" prefWidth="150" prefHeight="50"/>
+</VBox>

@@ -1,0 +1,4 @@
+Truck Name: Lol
+Max Weight: 10.0
+Current Weight: 3.7199999999999998
+Status: false
